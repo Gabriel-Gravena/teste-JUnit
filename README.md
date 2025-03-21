@@ -1,2 +1,2 @@
 # teste-JUnit
-utilizando JUnit para testar em Java
+utilizando Maven e JUnit para @test em Java
